@@ -21,3 +21,4 @@ git config --list
 
 ## Aportes desde otra cuenta
 Este texto fue aportado desde la cuenta danielromeroauk
+Este texto fue aportado desde la cuenta efra-rz
